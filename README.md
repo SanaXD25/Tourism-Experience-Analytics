@@ -63,18 +63,23 @@ Tourism-Experience-Analytics/
 Creates synthetic tourism dataset
 
 🔹 preprocessing.py
+
 Merges datasets and creates final dataset
 
 🔹 regression_model.py
+
 Predicts rating (numeric)
 
-🔹 classification_model.py
+🔹 classification_model.py 
+
 Predicts rating category (Positive/Neutral/Negative)
 
 🔹 recommendation_model.py
+
 Collaborative filtering logic
 
 🔹 main.py
+
 Runs everything in correct order
 
 
